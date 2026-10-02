@@ -1,0 +1,16 @@
+{
+  "name": "youtube-backend-project",
+  "version": "1.0.0",
+  "description": "This is Major Backend Practice Project",
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Simranjeet Kaur",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
